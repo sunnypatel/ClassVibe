@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/class_vibe/!svn/ver/21/branches/ver_1.0/application/modules/auth/views
+END
+change_password_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/application/modules/auth/views/change_password_form.php
+END
+login_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/application/modules/auth/views/login_form.php
+END
+welcome.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/application/modules/auth/views/welcome.php
+END
+welcome-html.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/application/modules/auth/views/welcome-html.php
+END
+change_email-html.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/application/modules/auth/views/change_email-html.php
+END
+forgot_password-txt.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/application/modules/auth/views/forgot_password-txt.php
+END
+activate-html.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/application/modules/auth/views/activate-html.php
+END
+forgot_password_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/application/modules/auth/views/forgot_password_form.php
+END
+reset_password-html.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/application/modules/auth/views/reset_password-html.php
+END
+register_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/application/modules/auth/views/register_form.php
+END
+welcome-txt.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/application/modules/auth/views/welcome-txt.php
+END
+change_email-txt.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/application/modules/auth/views/change_email-txt.php
+END
+unregister_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/application/modules/auth/views/unregister_form.php
+END
+send_again_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/application/modules/auth/views/send_again_form.php
+END
+activate-txt.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/application/modules/auth/views/activate-txt.php
+END
+change_email_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/application/modules/auth/views/change_email_form.php
+END
+reset_password-txt.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/application/modules/auth/views/reset_password-txt.php
+END
+general_message.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/application/modules/auth/views/general_message.php
+END
+forgot_password-html.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/application/modules/auth/views/forgot_password-html.php
+END
+reset_password_form.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/application/modules/auth/views/reset_password_form.php
+END

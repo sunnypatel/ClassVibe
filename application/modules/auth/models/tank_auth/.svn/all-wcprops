@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/class_vibe/!svn/ver/20/branches/ver_1.0/application/modules/auth/models/tank_auth
+END
+login_attempts.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/application/modules/auth/models/tank_auth/login_attempts.php
+END
+user_autologin.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/application/modules/auth/models/tank_auth/user_autologin.php
+END
+users.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/class_vibe/!svn/ver/20/branches/ver_1.0/application/modules/auth/models/tank_auth/users.php
+END

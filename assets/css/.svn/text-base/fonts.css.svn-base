@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'AsenineRegular';
+    src: url('../fonts/asenine_-webfont.eot');
+    src: url('../fonts/asenine_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/asenine_-webfont.woff') format('woff'),
+         url('../fonts/asenine_-webfont.ttf') format('truetype'),
+         url('../fonts/asenine_-webfont.svg#AsenineRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

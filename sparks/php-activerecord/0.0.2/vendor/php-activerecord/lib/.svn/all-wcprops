@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib
+END
+ConnectionManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/ConnectionManager.php
+END
+CallBack.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/CallBack.php
+END
+DateTime.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/DateTime.php
+END
+Column.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Column.php
+END
+Connection.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Connection.php
+END
+Utils.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Utils.php
+END
+Model.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Model.php
+END
+Relationship.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Relationship.php
+END
+Singleton.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Singleton.php
+END
+Cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Cache.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Config.php
+END
+SQLBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/SQLBuilder.php
+END
+Validations.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Validations.php
+END
+Reflections.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Reflections.php
+END
+Serialization.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Serialization.php
+END
+Exceptions.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Exceptions.php
+END
+Expressions.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Expressions.php
+END
+Inflector.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Inflector.php
+END
+Table.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/Table.php
+END

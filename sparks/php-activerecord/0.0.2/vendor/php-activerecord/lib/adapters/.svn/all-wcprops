@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/adapters
+END
+OciAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/adapters/OciAdapter.php
+END
+SqliteAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/adapters/SqliteAdapter.php
+END
+MysqlAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/adapters/MysqlAdapter.php
+END
+PgsqlAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/sparks/php-activerecord/0.0.2/vendor/php-activerecord/lib/adapters/PgsqlAdapter.php
+END

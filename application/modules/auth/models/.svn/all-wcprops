@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/class_vibe/!svn/ver/20/branches/ver_1.0/application/modules/auth/models
+END
+login_attempts.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/application/modules/auth/models/login_attempts.php
+END
+user_autologin.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/class_vibe/!svn/ver/18/branches/ver_1.0/application/modules/auth/models/user_autologin.php
+END
